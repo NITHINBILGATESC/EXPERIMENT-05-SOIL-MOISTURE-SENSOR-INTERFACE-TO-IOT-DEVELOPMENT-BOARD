@@ -273,6 +273,9 @@ void assert_failed(uint8_t *file, uint32_t line)
 ## Output screen shots on serial monitor   :
 
 <img width="963" height="477" alt="Screenshot 2026-10-10 203839" src="https://github.com/user-attachments/assets/1a7c353e-ca8e-45f2-ae8d-6675cd23027b" />
+
+## Circuit Diagram:
+
 <img width="830" height="463" alt="WhatsApp Image 2026-09-25 at 09 39 50" src="https://github.com/user-attachments/assets/90bd27ae-d392-4c4b-a5f2-10cbb14803b8" />
 
 
